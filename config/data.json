@@ -7,7 +7,7 @@
             "description": "รายละเอียดผลิตภัณฑ์บลาๆๆๆๆๆๆๆๆๆๆ",
             "image_products": "https://i.gifer.com/7S7F.gif",
             "credit_name": "RONIN Script",
-            "credit_image_profile": "../assets/img/image_profile_team/RONIN_Script.gif",
+            "credit_image_profile": "./assets/img/image_profile_team/RONIN_Script.gif",
             "script_name": "test",
             "keypass": "SERET_SEVEN_STORE?7pp4iK18HC2ULbwnx",
             "date": "25 Jan 2025"
@@ -19,7 +19,7 @@
             "description": "เเจกๆๆเอาไปทำอะไรก็ระวังนะครับขอเตือน!!!",
             "image_products": "https://fingerprint.com/static/37525647afe17c829232267528ab6326/s_-blog-illus_-8-common-indicators-of-phishing-email-attack-attempts-compressed.gif",
             "credit_name": "RONIN Script",
-            "credit_image_profile": "../assets/img/image_profile_team/RONIN_Script.gif",
+            "credit_image_profile": "./assets/img/image_profile_team/RONIN_Script.gif",
             "script_name": "SpamSMS",
             "keypass": "SERET_SEVEN_STORE?yUzjZztV4cgMdUqa4",
             "date": "27 Jan 2025"
