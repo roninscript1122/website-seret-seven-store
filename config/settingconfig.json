@@ -1,0 +1,24 @@
+{
+    "HomePage": {
+        "announce": [
+            {
+                "title": "Update Launcher 1.2.0",
+                "content": "เเก้ไข UX/UI ในระบบ เเละ เพิ่มฟังก์ชั่นใหม่"
+            },
+            {
+                "title": "Update Launcher 1.1.0",
+                "content": "เเก้ไขบัคในระบบ"
+            },
+            {
+                "title": "Update Launcher 1.0.0",
+                "content": "เพิ่มฟังก์ชั่นใหม่ และแก้ไขบัคในระบบ"
+            }
+        ]
+    },
+    "DownloadPage": {
+        "os": "Windows 10-11",
+        "sizefile": "4.62 MB",
+        "version": "1.2.0",
+        "date": "1 มกราคม 2025"
+    }
+}
