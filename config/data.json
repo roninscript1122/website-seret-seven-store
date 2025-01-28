@@ -23,6 +23,18 @@
             "script_name": "BackUp_MTA_DayZ_V1",
             "keypass": "SERET_SEVEN_STORE?0RYzp0Cl8Uz6l7DZR",
             "date": "28 Jan 2025"
+        },
+        {
+            "category": "MTA:SAN",
+            "RatingStar": "5.0",
+            "name": "Module MTA Linked C++ VisualStudio2022",
+            "description": "โมดูลนี้เป็นตัวช่วยเชื่อมต่อระหว่าง MTA (Multi Theft Auto) กับ C++ โดยรองรับการพัฒนาด้วย Visual Studio 2022 การตั้งค่าที่สำคัญคือ หากเซิร์ฟเวอร์ของคุณเป็นเวอร์ชัน 32 บิต คุณจำเป็นต้องตั้งค่าการ Build ให้เป็น 32 บิต เพื่อความเข้ากันได้อย่างสมบูรณ์แบบ โมดูลนี้ยังมาพร้อมกับตัวอย่างฟังก์ชัน GreetCpp ที่ช่วยให้คุณสามารถเรียกใช้งานคำสั่งหรือฟังก์ชันใน C++ ได้ง่ายดายจากสคริปต์ในเกม เหมาะสำหรับนักพัฒนาที่ต้องการขยายขีดความสามารถของเซิร์ฟเวอร์ MTA ด้วยฟีเจอร์ขั้นสูงและประสิทธิภาพจากภาษา C++",
+            "image_products": "https://i.imgur.com/JeDClno.gif",
+            "credit_name": "WADADANG",
+            "credit_image_profile": "./assets/img/image_profile_team/wadadang.gif",
+            "script_name": "ModuleMTA_VisualStudio2022",
+            "keypass": "SERET_SEVEN_STORE?x94DkEO668MEYqt3p",
+            "date": "28 Jan 2025"
         }
     ]
 }
