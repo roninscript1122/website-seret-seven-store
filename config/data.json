@@ -11,6 +11,18 @@
             "script_name": "BaseFiveM_V1",
             "keypass": "SERET_SEVEN_STORE?Fz4oFpe6WDtKlfg6V",
             "date": "28 Jan 2025"
+        },
+        {
+            "category": "MTA:SAN",
+            "RatingStar": "2.5",
+            "name": "BackUp MTA DayZ V1",
+            "description": "สคริปต์นี้คือรวม Mods เก่าๆของตัว Server DayZ MTA:SAN โดยมีระบบเริ่มต้นสำหรับการสร้างเซิฟเวอร์ MTA:SAN เเนวเอาชีวิตรอดจาก โลกล่มสลายเเนวซอมบี้ เเละยังมีระบบรูปเเบบการเล่นสมจริง UX/UI รูปเเบบคลาสสิก สไตร์เก่าของ MTA:SAN เเละยังมีระบบ Inventory ที่มีฟังห์ชั่นครบสะดวกสบายต่อการเล่นเเล้วยังมีไอเท็มเสื้อผ้าสามารถ Custom ได้ ฯลฯ",
+            "image_products": "https://i.imgur.com/iVt5gI0.gif",
+            "credit_name": "RONIN Script",
+            "credit_image_profile": "./assets/img/image_profile_team/RONIN_Script.gif",
+            "script_name": "BackUp_MTA_DayZ_V1",
+            "keypass": "SERET_SEVEN_STORE?0RYzp0Cl8Uz6l7DZR",
+            "date": "28 Jan 2025"
         }
     ]
 }
