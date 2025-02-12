@@ -61,6 +61,18 @@
             "date": "29 Jan 2025"
         },
         {
+            "category": "RUST",
+            "RatingStar": "4.7",
+            "name": "Installer Rust Server Latest",
+            "description": "โปรเเกรมนี้ไว้ใช้ในการติดตั้งเเละตั้งค่าเริ่มต้นของการสร้าง server rust เเละช่วยอำนวยความสะดวกในการสร้าง server rust สำหรับเริ่มต้นในการพัฒนา วิธีใช้งานสามารถเข้าชมได้ที่ https://www.youtube.com/@seret-seven-store",
+            "image_products": "https://i.imgur.com/dIrrwub.gif",
+            "credit_name": "RONIN Script",
+            "credit_image_profile": "./assets/img/image_profile_team/RONIN_Script.gif",
+            "script_name": "Installer-server-rust-latest-version",
+            "keypass": "SERET_SEVEN_STORE?N6sGgkS1yqKYEmzKM",
+            "date": "12 Feb 2025"
+        },
+        {
             "category": "Other",
             "RatingStar": "3.0",
             "name": "โปรเเกรม ZModeler.2.2.6",
