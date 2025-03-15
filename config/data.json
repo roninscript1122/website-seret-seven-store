@@ -49,6 +49,18 @@
             "date": "28 Jan 2025"
         },
         {
+            "category": "MTA:SAN",
+            "RatingStar": "4.9",
+            "name": "Connect Mysql MTA:SAN",
+            "description": "🔥 Connect MySQL สำหรับ MTA:SA! 🚀 สคริปต์สำหรับเชื่อมต่อ MySQL Database กับเซิร์ฟเวอร์ MTA:SA ได้ง่าย ๆ รองรับคำสั่ง _Query, _QuerySingle, _Exec, _Checkconnection พร้อมการตั้งค่าใน meta.xml ใช้งานง่าย เสถียร ป้องกัน Memory Leak 🎯 แจกฟรี! (OpenSource) ดาวน์โหลดเลย",
+            "image_products": "https://i.imgur.com/JQTIaVZ.gif",
+            "credit_name": "RONIN Script",
+            "credit_image_profile": "./assets/img/image_profile_team/RONIN_Script.gif",
+            "script_name": "connect_mysql_mtasa",
+            "keypass": "SERET_SEVEN_STORE?Vp4TvQyAgnOKn4wOd",
+            "date": "15 Mar 2025"
+        },
+        {
             "category": "GTA:SAN",
             "RatingStar": "3.3",
             "name": "Pack Model V1",
